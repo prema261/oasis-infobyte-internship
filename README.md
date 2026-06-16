@@ -3,6 +3,7 @@ Oasis Infobyte Internship - Data Science Portfolio
 Welcome to my project repository! This collection contains the machine learning and data analysis tasks I completed during my data science internship at Oasis Infobyte. The goal of these projects was to leverage Python’s powerful ecosystem to derive actionable insights and build predictive models.
 
 🚀 Projects Overview
+
 Task 1: Iris Flower Classification
 Objective: The primary goal was to develop a classification model that can accurately predict the species of an Iris flower based on specific physical attributes.
 

@@ -15,6 +15,8 @@ Utilized the scikit-learn library to train and evaluate classification algorithm
 
 Achieved high accuracy in predicting flower species based on sepal and petal dimensions.
 
+---
+
 Task 2: Unemployment Analysis
 Objective: This project aimed to analyze unemployment trends to identify patterns and shifts within the labor market.
 
@@ -25,6 +27,8 @@ Cleaned and processed raw unemployment datasets using pandas.
 Created visual representations of data over time using matplotlib and seaborn to highlight critical labor trends.
 
 Interpreted key findings to summarize the impact of socioeconomic factors on unemployment rates.
+
+---
 
 🛠 Tech Stack
 Programming Language: Python 3.x

@@ -13,6 +13,7 @@ Performed exploratory data analysis (EDA) to understand feature distributions.
 Utilized the scikit-learn library to train and evaluate classification algorithms.
 
 Achieved high accuracy in predicting flower species based on sepal and petal dimensions.
+
 Task 2: Unemployment Analysis
 Objective: This project aimed to analyze unemployment trends to identify patterns and shifts within the labor market.
 

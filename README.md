@@ -1,4 +1,3 @@
-# oasis-infobyte-internship
 Oasis Infobyte Internship - Data Science Portfolio
 Welcome to my project repository! This collection contains the machine learning and data analysis tasks I completed during my data science internship at Oasis Infobyte. The goal of these projects was to leverage Python’s powerful ecosystem to derive actionable insights and build predictive models.
 

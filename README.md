@@ -85,6 +85,5 @@ Language: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly
 
-Environment: VS Code with Jupyter Notebooks
+Development Environment: VS Code with Jupyter Notebooks
 
-Development Environment: Jupyter Notebook / VS Code

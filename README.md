@@ -18,6 +18,7 @@ Preprocessing: Split data into training and testing sets.
 Training: Applied a classification algorithm to identify patterns.
 
 Evaluation: Used a Confusion Matrix to verify prediction accuracy.
+
 ---
 📉 Task 2: Unemployment Analysis
 
@@ -33,6 +34,7 @@ Visualization: Built interactive dashboards to display trends and spikes.
 Trend Analysis: Performed time-series analysis on regional employment data.
 
 Insight Generation: Summarized statistical findings into actionable reports.
+
 ---
 🚗 Task 3: Car Price Prediction
 
@@ -48,6 +50,7 @@ EDA: Identified key features that drive vehicle cost.
 Modeling: Implemented a Linear Regression model for price estimation.
 
 Validation: Verified accuracy using R-squared and error metrics.
+
 ---
 📧 Task 4: Email Spam Detection
 
@@ -63,6 +66,7 @@ Vectorization: Converted text into numerical data using TF-IDF.
 Modeling: Trained a classification model to detect spam patterns.
 
 Testing: Evaluated model performance using precision and recall scores.
+
 ---
 📈 Task 5: Sales Prediction
 
@@ -78,6 +82,7 @@ Visualization: Used trend charts to map sales performance.
 Prediction: Built a regression model to forecast future sales.
 
 Strategy: Derived insights to optimize marketing budget allocation.
+
 ---
 
 💻 Technologies Used

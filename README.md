@@ -1,9 +1,12 @@
 Oasis Infobyte Internship - Data Science Portfolio
 Welcome to my project repository! This collection contains the machine learning and data analysis tasks I completed during my data science internship at Oasis Infobyte. The goal of these projects was to leverage Python’s powerful ecosystem to derive actionable insights and build predictive models.
 ---
-
+## 🚨 Internship Verification Note
+To the Oasis Infobyte Review Team, please note the following structure regarding my task submissions:
+* **GitHub Portfolio (5/5 Tasks):** This repository contains the complete codebase, datasets, and Jupyter Notebooks for all **5 assigned internship tasks**. 
+* **LinkedIn Video Demonstrations (3/5 Tasks):** As per the program's flexible guidelines, I have selected my top **3 core projects** to showcase via working video demonstrations on my LinkedIn profile (**Task 1: Iris Flower Classification**, **Task 2: Unemployment Analysis**, and **Task 3:Car Price Prediction with Machine Learning**).
+---
 🚀 Projects Overview
-
 🌸 Task 1: Iris Flower Classification
 
 📌 Project Objective
